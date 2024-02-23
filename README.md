@@ -11,18 +11,26 @@ You must have nodejs and npm installed, if you don't try:
 
 
 For Debian/Ubuntu
+
+
 sudo apt install npm node
 
 
 For CentOS/RHEL
+
+
 sudo yum install npm node
 
 
 For Fedora
+
+
 dnf install npm node
 
 
 For Arch Linux
+
+
 sudo packman -S npm node
 
 
