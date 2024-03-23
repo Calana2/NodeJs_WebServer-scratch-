@@ -1,9 +1,15 @@
 # NodeJs_WebServer-scratch-
 An http/1.0 implementation using NodeJs main modules
 
+
 HTML files inside 'views', other files inside 'data'
 
+
 When requests are received, a 'logs' folder will be created
+
+
+The server is listening in port 8000
+
 
 Requirements && Usage
 ---------------------------
